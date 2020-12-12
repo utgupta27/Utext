@@ -1,4 +1,4 @@
-#Utext - Text Editor
+# Utext - Text Editor
 A simple usefull GUI based text editor Application
 Build by using Python3 Tkinter Lirary
 
