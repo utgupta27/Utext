@@ -1,8 +1,8 @@
-# Utext - Text Editor
-A simple usefull GUI based text editor Application
-Build by using Python3 Tkinter Lirary
+# Utext - Text Editor (Currently in Development)
+A simple GUI based text editing Application
+Build by using Python3 Tkinter Library.
 
 ## Upcomming Features 
 - Statefull Bottom Status Bar
 - Dark theme support
-- Line and word Count
+- Side column with Line and word Count
